@@ -142,6 +142,7 @@ pub struct ImageUrls {
     pub square_medium: String,
     pub medium: String,
     pub large: String,
+    pub original: Option<String>,
 }
 
 /// Tag on an illustration.
